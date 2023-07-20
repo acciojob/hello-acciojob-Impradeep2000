@@ -4,6 +4,11 @@
 	height:150px;
 	background-color:black;
 }
+
+#job{
+	width:150px;
+}
+
 .hello-accio{
 	color: white;
 	margin-left: 32px;
